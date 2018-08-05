@@ -62,4 +62,4 @@ typings/
 
 # webstorm
 .idea/
-.vuepress/
+.vuepress/dist/
