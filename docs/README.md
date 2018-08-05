@@ -12,4 +12,4 @@ features:
 footer: MIT Licensed | Copyright © 2018-present momo
 ---
 
-> this is first page.
+> this is my first page.
